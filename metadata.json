@@ -1,0 +1,6 @@
+{
+  "name": "EventEase",
+  "description": "Discover and book trusted local event professionals for weddings, birthdays, corporate functions, and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
